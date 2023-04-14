@@ -10,6 +10,7 @@ public class TestModel {
 		 * 	Write here your test model
 		 */
 
+		System.out.println(model.getTuttiCorsi().size());
 	}
 
 }
